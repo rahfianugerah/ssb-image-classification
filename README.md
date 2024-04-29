@@ -38,9 +38,13 @@
 - GitHub: [@rahfianugerah](https://www.github.com/rahfianugerah)
 
 ## Pictures
-![Screenshot 2024-04-10 224228](https://github.com/rxzv/rpsic/assets/156213717/b0197801-368a-42b8-9afc-89da6b053570)
-![Screenshot 2024-04-10 224109](https://github.com/rxzv/rpsic/assets/156213717/1d095134-c587-448e-852e-b73fb6c57ae3)
-![Screenshot 2024-04-10 224013](https://github.com/rxzv/rpsic/assets/156213717/cdfef637-6530-4d55-860a-0b1826f7e0ac)
+<div align="center">
+  
+  ![Screenshot 2024-04-29 112311](https://github.com/rahfianugerah/ssb-image-classification/assets/156213717/15f875ce-81bc-4a53-922e-86bb3a4fbdcd)
+  ![Screenshot 2024-04-29 112240](https://github.com/rahfianugerah/ssb-image-classification/assets/156213717/96a7393d-a040-4a01-8e5a-bc1cdd7013aa)
+  ![Screenshot 2024-04-29 111743](https://github.com/rahfianugerah/ssb-image-classification/assets/156213717/6c7575e6-edf2-40e5-92a4-3a28c443879f)
+
+</div>
 
 ## Special Thanks to <a href="https://www.dicoding.com/">Dicoding</a>
 <img src="https://help.dicoding.com/wp-content/uploads/2021/01/dicoding-edit.jpg"/>
