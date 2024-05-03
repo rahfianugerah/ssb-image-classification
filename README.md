@@ -3,7 +3,7 @@
 ![Finish](https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
 ![Python]( https://img.shields.io/badge/Made_with-Python-blue)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rxzv/user-login-register-system/blob/main/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/rahfianugerah/ssb-image-classification/blob/main/LICENSE)
 
 ## Project Overview
 <p align="justify">
