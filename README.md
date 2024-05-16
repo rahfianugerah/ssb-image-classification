@@ -1,4 +1,4 @@
-# Shoe Sandal Boot Image Classification using TensorFlow with CNN
+# Shoes - Sandals - Boots Image Classification using TensorFlow with CNN
 
 ![Finish](https://img.shields.io/badge/Finished_Project-Yes-green)
 ![TensorFlow]( https://img.shields.io/badge/TensorFlow-v2.15.0-ff8500)
